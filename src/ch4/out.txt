@@ -1,0 +1,13 @@
+(gdb) -------------------------- 
+display variables 
+
+Value can't be converted to integer.
+Value can't be converted to integer.
+
+Value can't be converted to integer.
+Value can't be converted to integer.
+Value can't be converted to integer.
+Value can't be converted to integer.
+Value can't be converted to integer.
+
+ 

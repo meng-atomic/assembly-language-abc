@@ -1,0 +1,22 @@
+echo \n\n
+break last
+run
+set pagination off
+set logging file out.txt
+set logging overwrite
+set logging on
+set prompt
+echo -------------------------- \n
+echo display variables \n
+echo \n
+x/100dw $list
+x/dw $length
+echo \n
+x/dw $listMin
+x/dw $listMid
+x/dw $listMax
+x/dw $listSum
+x/dw $listAve
+echo \n \n
+set logging off
+quit
